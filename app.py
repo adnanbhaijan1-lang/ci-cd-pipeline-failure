@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("Hello CI/CD 🚀")
-=======
-print("Hello from GitHub Actions")
->>>>>>> 95c9f10d0781cc2d2cdcf1a4c3d5165d1fb76a83
+print("Hello CI/CD")
